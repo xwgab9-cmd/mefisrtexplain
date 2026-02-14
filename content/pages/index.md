@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Best Food Market
-      color: text-light
+      color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
